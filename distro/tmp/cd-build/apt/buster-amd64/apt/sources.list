@@ -1,0 +1,2 @@
+deb file:/home/ptos/distro/tmp/mirror buster main
+deb file:/home/ptos/distro/tmp/mirror buster main/debian-installer

@@ -1,0 +1,37 @@
+runcmd: /home/ptos/distro/tmp/log/mirror-reprepro
+stderr: gzip: /home/ptos/distro/tmp/mirror/lists/buster_default_deb_main_amd64.gz: No such file or directory
+stdout: Dateien /home/ptos/distro/tmp/mirror/conf/package-list und /home/ptos/distro/tmp/mirror/conf/package-list.old sind verschieden.
+stdout: getting missing dependencies... attempt 1
+stderr: aptmethod got 'http://deb.debian.org/debian/pool/main/c/console-setup/console-setup-freebsd_1.193~deb10u1_all.deb'
+stdout: Calculating packages to get...
+stdout:   processing updates for 'u|buster|main|amd64'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-udebs_buster_main_amd64_uPackages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-base-updates_buster-updates_main_amd64_uPackages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-updates_buster-updates_main_amd64_uPackages'
+stdout:   processing updates for 'buster|main|amd64'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default_buster_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-base_buster_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-base-security_buster%2Fupdates_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-security_buster%2Fupdates_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-base-updates_buster-updates_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-updates_buster-updates_main_amd64_Packages'
+stdout: Getting packages...
+stdout: Shutting down aptmethods...
+stdout: Installing (and possibly deleting) packages...
+stdout: Exporting indices...
+stdout: Dateien /home/ptos/distro/tmp/mirror/conf/package-list und /home/ptos/distro/tmp/mirror/conf/package-list.old sind verschieden.
+stdout: getting missing dependencies... attempt 2
+stdout: Calculating packages to get...
+stdout:   processing updates for 'u|buster|main|amd64'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-udebs_buster_main_amd64_uPackages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-base-updates_buster-updates_main_amd64_uPackages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-updates_buster-updates_main_amd64_uPackages'
+stdout:   processing updates for 'buster|main|amd64'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default_buster_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-base_buster_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-base-security_buster%2Fupdates_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-security_buster%2Fupdates_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-base-updates_buster-updates_main_amd64_Packages'
+stdout:   reading '/home/ptos/distro/tmp/mirror/lists/default-updates_buster-updates_main_amd64_Packages'
+stdout: no new dependencies, finished in 3 attempts.
+retval: 0

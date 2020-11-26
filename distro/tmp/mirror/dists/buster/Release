@@ -1,0 +1,24 @@
+Suite: stable
+Codename: buster
+Date: Tue, 24 Nov 2020 08:20:16 UTC
+Architectures: amd64
+Components: main
+Description: mirror for buster
+MD5Sum:
+ ad6981530cfeca9801ddeb608392d3e4 885184 main/binary-amd64/Packages
+ ee902265c8b5f012e4ccbb1fa4c95a25 265756 main/binary-amd64/Packages.gz
+ ef6d76792ea050cd296f6f1f95b76956 83 main/binary-amd64/Release
+ 4da2c6d57536cb4fc08d54b9591ae549 326661 main/debian-installer/binary-amd64/Packages
+ 6184b8ad0e8629fbb3fb08f5e2b61f6a 87860 main/debian-installer/binary-amd64/Packages.gz
+SHA1:
+ 8edbeeaacb802215e9724973f154eff89bda24ca 885184 main/binary-amd64/Packages
+ 0bb1147fe4b4c2ebbd5a21596928ad6c778d6a14 265756 main/binary-amd64/Packages.gz
+ 7ed4f319d2f265c2eea2af7c618c542828d3be8e 83 main/binary-amd64/Release
+ 0ac4ff13ed04ef41e0d9b01970cb592458fec0f3 326661 main/debian-installer/binary-amd64/Packages
+ ec5dfb2be52fd7649dd5911d8a96f3765961f504 87860 main/debian-installer/binary-amd64/Packages.gz
+SHA256:
+ 770095d32808280ffcf8e5d151e061baa0a4df3decd45088c6baedcaab81f440 885184 main/binary-amd64/Packages
+ 726edef7dc3c6901dbf59ab6aa71ab54e36fc18ab2717b7ac8792a28e1ca39b2 265756 main/binary-amd64/Packages.gz
+ c076387167e61529ec7360a07a6cd9b4c40268f835513dccc6182a8c9211e638 83 main/binary-amd64/Release
+ f3bc22a72ecbdd0fa6cb2657976a70da90107122ecb58849da4ca2a49326bfb9 326661 main/debian-installer/binary-amd64/Packages
+ 108e1f5e7c2e1348de141377bfe1b4d5a289791f79ad9b00eaadb0ea5c6a7bca 87860 main/debian-installer/binary-amd64/Packages.gz

@@ -1,0 +1,27 @@
+#include <debian-installer>
+#include <debian-installer+kernel>
+acpi
+acpid
+busybox
+console-setup
+cryptsetup
+debootstrap
+eject
+grub-efi
+grub-pc
+isolinux
+jfsutils
+less
+linux-image-2.6-amd64
+linux-image-amd64
+lvm2
+mdadm
+openssh-server
+popularity-contest
+reiserfsprogs
+simple-cdd-profiles
+sudo
+syslinux
+syslinux-common
+usbutils
+xfsprogs

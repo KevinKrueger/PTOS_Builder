@@ -1,0 +1,14 @@
+Package: ca-certificates-udeb
+Source: ca-certificates
+Version: 20200601~deb10u1
+Installed-Size: 392
+Maintainer: Michael Shuler <michael@pbandjelly.org>
+Architecture: all
+Description: Common CA certificates - udeb
+Description-md5: 20a480ca17e8c790501dbb978471f73d
+Section: debian-installer
+Priority: optional
+Filename: pool/main/c/ca-certificates/ca-certificates-udeb_20200601~deb10u1_all.udeb
+Size: 117116
+SHA256: c5ed85229708e802981bedf380f7368780413923e0ef4ea77ddfeb54e657d7ad
+

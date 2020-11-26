@@ -1,0 +1,8 @@
+Codename: buster
+Architectures: amd64
+Components: main
+UDebComponents: main
+Description: mirror for buster
+Update: default default-base default-udebs default-base-security default-security default-base-updates default-updates
+Suite: stable
+

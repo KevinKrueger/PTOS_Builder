@@ -1,0 +1,30 @@
+Suite: stable
+Codename: buster
+Date: Tue, 24 Nov 2020 08:20:16 UTC
+Architectures: amd64
+Components: main
+Description: mirror for buster
+MD5Sum:
+ ef6d76792ea050cd296f6f1f95b76956       83 main/binary-amd64/Release
+ f7afce86311bd9b6728965905601ddc7    92527 main/binary-amd64/Packages.gz
+ e408db144f576280044cb645a1f440c6   291104 main/binary-amd64/Packages
+ 4bf6e3f84a546d94b52e85ef6b281fed    64500 main/debian-installer/binary-amd64/Packages.gz
+ 82a88a2a1a7d693dfbb3fce3fc9bf3ec   226364 main/debian-installer/binary-amd64/Packages
+SHA1:
+ 7ed4f319d2f265c2eea2af7c618c542828d3be8e       83 main/binary-amd64/Release
+ bd32eddbc4b1d1cf232e2c15445406770d9599bc    92527 main/binary-amd64/Packages.gz
+ c414e0ba868f1da2acdb8df388c23008ce170552   291104 main/binary-amd64/Packages
+ a5394b6cc5b58093872f9ab7e290c300ad631328    64500 main/debian-installer/binary-amd64/Packages.gz
+ 7e9c15fc616ad3c8ebac87a7532870f89748e0a3   226364 main/debian-installer/binary-amd64/Packages
+SHA256:
+ c076387167e61529ec7360a07a6cd9b4c40268f835513dccc6182a8c9211e638       83 main/binary-amd64/Release
+ 4eedfde94d4bf1136653f20fb53479f6afe2d99d039228cac8c78e9cbbc5f06b    92527 main/binary-amd64/Packages.gz
+ 5635852829d1d33fec63ddf947ce06da5f1f210513960637ef94e3d32ae54b85   291104 main/binary-amd64/Packages
+ fb0b3bdbd7bf66ea9a98e479f17202868b7145bbb472ebde22303eb4cf729403    64500 main/debian-installer/binary-amd64/Packages.gz
+ 2e0713e895a4eaf5d1c3088195b397dc90d69b76f75a3d05997ff815dd379983   226364 main/debian-installer/binary-amd64/Packages
+SHA512:
+ 99cec57c1e97dbab4faa7aa72a0f36cde89e375a2c28054fb137b395f5cefed9186dea8717181ebe9467cdb0dfd67a961a0a89ca7efe6f62aac92a1700ed56d6       83 main/binary-amd64/Release
+ f24926cc2ef55349fd376a7f0f513c266a8151d46da9e1ac93d9b9acc4d40bcb5f69e7b765342deb51e1c93dd02ece3aa7bb1ab0f5b7c41d9cf701c30f8a7f4c    92527 main/binary-amd64/Packages.gz
+ c5d191669e4c114abba4b32b6662ce8a01ac40c85780cbc99cc6690372707b27cd0f8ab7249ce76e85800a48d9ecbc358b1bfd7c9ac022f92f5f9c6483bcbed9   291104 main/binary-amd64/Packages
+ e89850aaa636fc87fe942af289772667792c967554c0d956ca2081e260c42ef63aa1325406156a3a2b405725f1ffabeee505315ae9eb8af15178c419cfe3256a    64500 main/debian-installer/binary-amd64/Packages.gz
+ 90b5ce5c8a3f42f5096bf38a3b44a0c3bc338a6936ac065d115b1de0b0a8cbabbf2ef4d5cee200d095457cb3cf65727e64ca7c40c9df52d9e8ce87c61f89eb75   226364 main/debian-installer/binary-amd64/Packages
